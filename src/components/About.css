@@ -1,0 +1,26 @@
+.about-section {
+    background: var(--bg-primary);
+    border-top: 1px solid var(--border);
+}
+
+.about-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.about-text p {
+    font-size: var(--font-size-base);
+    line-height: 1.8;
+    margin-bottom: var(--spacing-xl);
+    color: var(--text-secondary);
+}
+
+.about-text p:last-child {
+    margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+    .about-text p {
+        font-size: var(--font-size-sm);
+    }
+}

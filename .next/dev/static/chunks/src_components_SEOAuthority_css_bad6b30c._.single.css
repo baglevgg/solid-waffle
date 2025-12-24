@@ -1,0 +1,48 @@
+/* [project]/src/components/SEOAuthority.css [app-client] (css) */
+.seo-authority-section {
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border);
+}
+
+.reasons-grid {
+  gap: var(--spacing-xl);
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  display: grid;
+}
+
+.reason-card {
+  transition: all var(--transition-base);
+}
+
+.reason-icon {
+  width: 40px;
+  height: 40px;
+  margin-bottom: var(--spacing-lg);
+  color: var(--text-primary);
+}
+
+.reason-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+.reason-title {
+  font-size: var(--font-size-lg);
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-sm);
+  font-weight: 600;
+}
+
+.reason-description {
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+@media (max-width: 768px) {
+  .reasons-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/*# sourceMappingURL=src_components_SEOAuthority_css_bad6b30c._.single.css.map*/

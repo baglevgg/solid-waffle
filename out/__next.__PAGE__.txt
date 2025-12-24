@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[74280,["/_next/static/chunks/240461da8f3815e6.js","/_next/static/chunks/8b83c6a58da0f52c.js"],"default"]
+3:I[6476,["/_next/static/chunks/240461da8f3815e6.js","/_next/static/chunks/8b83c6a58da0f52c.js"],"default"]
+4:I[28771,["/_next/static/chunks/240461da8f3815e6.js","/_next/static/chunks/8b83c6a58da0f52c.js"],"default"]
+5:I[34899,["/_next/static/chunks/240461da8f3815e6.js","/_next/static/chunks/8b83c6a58da0f52c.js"],"default"]
+6:I[16198,["/_next/static/chunks/240461da8f3815e6.js","/_next/static/chunks/8b83c6a58da0f52c.js"],"default"]
+7:I[98784,["/_next/static/chunks/240461da8f3815e6.js","/_next/static/chunks/8b83c6a58da0f52c.js"],"default"]
+8:I[71652,["/_next/static/chunks/240461da8f3815e6.js","/_next/static/chunks/8b83c6a58da0f52c.js"],"default"]
+9:I[97367,["/_next/static/chunks/4fd93823156e59e8.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/80f51930b04ada2c.css","style"]
+0:{"buildId":"-qT9ZCmyOFwZgoQ8E2Odi","rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Gaurav Dhakal\",\"jobTitle\":\"AI Engineer & Data Scientist\",\"description\":\"Gaurav Dhakal is a data scientist, AI engineer, and technology-focused problem solver specializing in artificial intelligence, machine learning, and intelligent digital solutions.\",\"url\":\"https://me.sdj.com.np\",\"image\":\"https://me.sdj.com.np/profile.jpg\",\"sameAs\":[\"https://linkedin.com/in/gauravdhakal\",\"https://github.com/gauravdhakal\",\"https://twitter.com/gauravdhakal\"],\"knowsAbout\":[\"Artificial Intelligence\",\"Machine Learning\",\"Data Science\",\"Python Programming\",\"AI Model Development\",\"Data Analysis\",\"Web Development\",\"React\",\"System Optimization\"],\"worksFor\":{\"@type\":\"Organization\",\"name\":\"SDJ Technologies\"}}"}}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/80f51930b04ada2c.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/8b83c6a58da0f52c.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"loading":null,"isPartial":false}
+b:null

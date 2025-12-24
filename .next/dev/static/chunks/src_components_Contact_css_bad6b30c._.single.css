@@ -1,0 +1,68 @@
+/* [project]/src/components/Contact.css [app-client] (css) */
+.contact-section {
+  background: var(--bg-primary);
+  border-top: 1px solid var(--border);
+}
+
+.contact-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact-form-wrapper, .contact-form {
+  width: 100%;
+}
+
+.form-group {
+  margin-bottom: var(--spacing-xl);
+}
+
+.form-label {
+  font-size: var(--font-size-sm);
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-sm);
+  font-weight: 500;
+  display: block;
+}
+
+.form-input {
+  width: 100%;
+}
+
+textarea.form-input {
+  resize: vertical;
+  min-height: 150px;
+}
+
+.form-submit {
+  width: 100%;
+  padding: var(--spacing-lg);
+  cursor: pointer;
+}
+
+.contact-info {
+  margin-top: var(--spacing-2xl);
+  text-align: center;
+  padding-top: var(--spacing-2xl);
+  border-top: 1px solid var(--border);
+}
+
+.contact-email {
+  font-size: var(--font-size-lg);
+  color: var(--text-primary);
+  transition: opacity var(--transition-fast);
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.contact-email:hover {
+  opacity: .7;
+}
+
+@media (max-width: 640px) {
+  .contact-content {
+    padding: 0;
+  }
+}
+
+/*# sourceMappingURL=src_components_Contact_css_bad6b30c._.single.css.map*/
