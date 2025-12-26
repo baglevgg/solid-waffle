@@ -1,0 +1,24 @@
+# llms.txt
+# Purpose: Define permissions for Large Language Models (LLMs)
+# Website: https://me.sdj.com.np
+# Owner: Gaurav Dhakal
+# Last-Updated: 2025-12-26
+
+User-Agent: *
+Allow: /
+Disallow-Training: /
+Allow-Indexing: /
+Allow-Summarization: /
+Allow-Quotation: yes
+Allow-Translation: yes
+
+# Restrictions
+Disallow-Model-Training-Data-Redistribution: yes
+Disallow-Personal-Data-Extraction: yes
+
+# Attribution
+Require-Attribution: yes
+Attribution-URL: https://me.sdj.com.np
+
+# Contact
+Contact: gaurav@sdj.com.np
