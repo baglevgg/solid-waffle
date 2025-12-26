@@ -1,14 +1,11 @@
-# Content Usage Signals (EU DSM Directive 2019/790 – Article 4)
-# search:   Allowed (indexing + links, no AI summaries)
-# ai-input: Not explicitly permitted or denied
-# ai-train: Disallowed
+# robots.txt for https://me.sdj.com.np/
+# Standard syntax – reference sitemap and crawling rules
 
+# Allow all crawlers by default
 User-agent: *
-Content-signal: search=yes
-Content-signal: ai-train=no
-Allow: /
+Disallow:
 
-# Explicitly blocked bots
+# Block specific crawlers that are NOT allowed to crawl the site
 User-agent: Amazonbot
 Disallow: /
 
@@ -33,5 +30,5 @@ Disallow: /
 User-agent: meta-externalagent
 Disallow: /
 
-# Sitemap
-Sitemap: https://me.sdj.com.np/sitemap.xml
+# Sitemap location
+Sitemap: https://me.sdj.com.np/sitemap.xmlSitemap: https://me.sdj.com.np/sitemap.xml
